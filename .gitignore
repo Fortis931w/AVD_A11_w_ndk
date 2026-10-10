@@ -1,0 +1,12 @@
+/.cache/
+/.env
+/build/
+/dist/
+/downloads/
+/*.apk
+/*.zip
+/*.img
+/*.qcow2
+*.log
+.DS_Store
+Thumbs.db

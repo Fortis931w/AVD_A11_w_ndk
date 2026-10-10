@@ -1,0 +1,5 @@
+# name|repository-or-url|ref|sha256 (sha256 is used for files only)
+rootAVD|https://github.com/newbit1/rootAVD.git|c8638d0ee386017d9f1a0ed5247bb6f0749bbcff|-
+libhoudini-package|https://github.com/natsumerinchan/libhoudini-package.git|4ff59840c8734603e3ebe525a6d2947bde6fef4e|-
+test_libnb|https://github.com/qwerty12356-wart/test_libnb.git|4f89b1f622d83082bc644fc216a9d6c70d7df8f7|-
+Magisk-v25.2.apk|https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk|v25.2|0bdc32918b6ea502dca769b1c7089200da51ea1def170824c2812925b426d509

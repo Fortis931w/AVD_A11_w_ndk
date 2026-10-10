@@ -1,0 +1,6 @@
+id=avd_houdini
+name=Android 11 x86_64 AVD Houdini
+version=WSA Houdini v3.0
+versionCode=300
+author=natsumerinchan / qwerty12356-wart / AVD integration contributors
+description=Systemless ARM and ARM64 native-bridge integration for an API 30 x86_64 AVD.
